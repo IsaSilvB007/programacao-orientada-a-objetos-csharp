@@ -1,0 +1,15 @@
+EXERCÍCIO 1: Modelagem Conceitual
+Domínio Escolhido: Supermercado ('Produto')
+
+Classe: Produto
+
+Atributos:
+1. string Marca
+2. int CodigoBarras
+3. double Valor
+4. double Peso
+
+Métodos:
+1. AplicarDesconto()
+2. AlterarPeso()
+3. ExibirInformacoes()
